@@ -1,3 +1,9 @@
+# hello-world
+
+my first repositoriy on git hub
+
+I love :coffee::pizza:, and :dancer:.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
